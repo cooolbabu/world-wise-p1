@@ -5,11 +5,11 @@ import Message from "./Message";
 import { useCities } from "./contexts/CitiesContext";
 
 function CityList() {
-  const { cities, isLoading, currentCity } = useCities();
+  const { cities, isLoading } = useCities();
 
   if (isLoading) return <Spinner />;
-  console.log("CityList: ", cities);
-  console.log("CurrentCity: ", currentCity);
+  //console.log("CityList: ", cities);
+  //console.log("CurrentCity: ", currentCity);
 
   if (!cities.length)
     return <Message message="Add your first city by clicking on the map " />;

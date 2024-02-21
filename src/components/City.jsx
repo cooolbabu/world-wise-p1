@@ -28,7 +28,7 @@ function City() {
 
   if (isLoading) return <Spinner />;
 
-  console.log("after useffect: ", cityName, currentCity.cityName);
+  // console.log("after useffect: ", cityName, currentCity.cityName);
 
   return (
     <div className={styles.city}>

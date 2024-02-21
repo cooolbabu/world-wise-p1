@@ -12,16 +12,16 @@ const formatDate = (date) =>
 function CityItem({ city }) {
   const { cityName, emoji, date, id, position } = city;
   const { currentCity } = useCities();
-  console.log(
-    "City Item: ",
-    position,
-    id,
-    "--",
-    cityName,
-    currentCity.id,
-    "--",
-    currentCity.cityName
-  );
+  // console.log(
+  //   "City Item: ",
+  //   position,
+  //   id,
+  //   "--",
+  //   cityName,
+  //   currentCity.id,
+  //   "--",
+  //   currentCity.cityName
+  // );
   return (
     <li>
       <Link

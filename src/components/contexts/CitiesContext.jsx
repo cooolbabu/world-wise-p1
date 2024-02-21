@@ -8,7 +8,7 @@ function CitiesProvider({ children }) {
   const [isLoading, setIsLoading] = useState(false);
   const [currentCity, setCurrentCity] = useState({});
 
-  console.log("CitiesProvider invoked ...");
+  //console.log("CitiesProvider invoked ...");
 
   useEffect(function () {
     async function fetchCities() {
