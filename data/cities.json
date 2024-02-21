@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "PT",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -35,6 +23,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Zapy",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-02-21T20:26:22.664Z",
+      "notes": "",
+      "position": {
+        "lat": "50.16497274699141",
+        "lng": "14.702191171810457"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Messaoud Boudjeriou",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-02-21T20:31:10.300Z",
+      "notes": "",
+      "position": {
+        "lat": "36.47717615792884",
+        "lng": "6.375638011514459"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Barcelos",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-02-21T20:58:31.271Z",
+      "notes": "",
+      "position": {
+        "lat": "41.61035771249289",
+        "lng": "-8.568020525927034"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "El Amra",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-02-21T20:59:17.340Z",
+      "notes": "",
+      "position": {
+        "lat": "36.42645298262956",
+        "lng": "1.8962917391130987"
+      },
+      "id": 98443202
     }
   ]
 }
