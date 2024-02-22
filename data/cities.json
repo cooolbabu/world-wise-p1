@@ -37,18 +37,6 @@
       "id": 98443198
     },
     {
-      "cityName": "Messaoud Boudjeriou",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2024-02-21T20:31:10.300Z",
-      "notes": "",
-      "position": {
-        "lat": "36.47717615792884",
-        "lng": "6.375638011514459"
-      },
-      "id": 98443200
-    },
-    {
       "cityName": "Barcelos",
       "country": "Portugal",
       "emoji": "🇵🇹",
@@ -61,16 +49,40 @@
       "id": 98443201
     },
     {
-      "cityName": "El Amra",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2024-02-21T20:59:17.340Z",
+      "cityName": "Andujar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-22T02:56:27.821Z",
       "notes": "",
       "position": {
-        "lat": "36.42645298262956",
-        "lng": "1.8962917391130987"
+        "lat": "38.154137124829205",
+        "lng": "-3.953734323249205"
       },
-      "id": 98443202
+      "id": 98443204
+    },
+    {
+      "cityName": "Arino",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-22T03:49:23.510Z",
+      "notes": "",
+      "position": {
+        "lat": "41.04755344614364",
+        "lng": "-0.6152343750000001"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Arino",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-22T03:49:23.510Z",
+      "notes": "",
+      "position": {
+        "lat": "41.04755344614364",
+        "lng": "-0.6152343750000001"
+      },
+      "id": 98443206
     }
   ]
 }
